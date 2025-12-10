@@ -2,6 +2,13 @@
 
 A benchmark for evaluating negation understanding in vision-language models across seven typologically diverse languages.
 
+## Authors
+
+**Gwen Flusche, Hara Moraitaki, Sarah Pan, Sky Pulling**  
+MIT · 6.3950 Fall 2025
+
+{gflusche, hmor, sarahpan, spulling}@mit.edu
+
 ## Overview
 
 Vision-language models (VLMs) exhibit **affirmation bias**: a tendency to match captions like "there is no boat" to images containing boats, simply because the word "boat" appears. While prior work has documented this failure in English, negation manifests differently across languages through varying morphology, word order, and script systems.
