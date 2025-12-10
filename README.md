@@ -33,6 +33,8 @@ This repository provides the first human-verified multilingual negation benchmar
 - **SigLIP** (multilingual)
 - **MultiCLIP** (clip-ViT-B-32-multilingual-v1)
 - **SpaceVLM** — subspace-based negation correction method
+- **ConClip** 
+- **NegClip**
 
 ## Key Findings
 
